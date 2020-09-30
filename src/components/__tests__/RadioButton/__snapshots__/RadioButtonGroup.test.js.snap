@@ -3,9 +3,10 @@
 exports[`RadioButtonGroup renders properly 1`] = `
 <View
   accessibilityLiveRegion="polite"
-  accessibilityRole="button"
+  accessibilityRole="radio"
   accessibilityState={
     Object {
+      "checked": true,
       "disabled": undefined,
     }
   }
